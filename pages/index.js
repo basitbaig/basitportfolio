@@ -31,7 +31,7 @@ export default function Home() {
               <p className="hero-subtitle">
                 <span
                   className="typed"
-                  data-typed-items="Designer, Developer, Freelancer, Photographer"
+                  data-typed-items="PIAIC UIT Batch 36 Student, A Developer, BI Designer, Data Analyst, Freelancer"
                 ></span>
               </p>
               {/* <p className="pt-3"><a className="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p>  */}
