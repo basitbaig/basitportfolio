@@ -25,15 +25,8 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
-
-        <Script src="assets/vendor/purecounter/purecounter_vanilla.js" />
-        <Script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js" />
-        <Script src="assets/vendor/glightbox/js/glightbox.min.js" />
-        <Script src="assets/vendor/swiper/swiper-bundle.min.js" />
-        <Script src="assets/vendor/typed.js/typed.min.js" />
-        <Script src="assets/vendor/php-email-form/validate.js" />
-        <Script src="assets/js/main.js"/> 
-
+ 
+     
       </body>
     </Html>
   )

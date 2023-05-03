@@ -1,9 +1,9 @@
 import React from "react";
 import Link from "next/link";
 import Script from "next/script";
-import Footer from "./components/Footer";
 
-const Navbar = ({children}) => {
+
+const Navbar = () => {
   return (
     <div>
       {/* <nav className="navbar navbar-expand-lg bg-body-tertiary bg-dark" data-bs-theme="dark">
@@ -87,7 +87,8 @@ const Navbar = ({children}) => {
           </div>
       </header>  
 
-      <Footer />
+      
+    
 
     </div>
   );
