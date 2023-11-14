@@ -14,7 +14,7 @@ function services() {
             <div className="title-box text-center">
               <h3 className="title-a">Services</h3>
               <p className="subtitle-a">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                We can Design & Develop simple yet comprehensive Software Solutions for your Business needs.
               </p>
               <div className="line-mf"></div>
             </div>
